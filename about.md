@@ -3,9 +3,6 @@ layout: page
 permalink: /about/
 published: true
 ---
-
-I'm a PhD doing research in Multi-agent robotic system in [CAST](https://cast.tamu.edu/) lab advised by Dr. [Swaminathan Gopalswamy](https://engineering.tamu.edu/mechanical/profiles/gopalswamy-s.html). My research interest is the coordination of robots in motion planning and sensor fusion.
-
 # Contact 
 
 [xmcx731@tamu.edu](mailto:xmcx731@tamu.edu)
@@ -24,6 +21,7 @@ I'm a PhD doing research in Multi-agent robotic system in [CAST](https://cast.ta
 - ### B.E. in Mechanical Engineering, Xi'an Jiaotong University
 
   2012 - 2016
+ 
 
 # Honors
 
@@ -40,3 +38,8 @@ I'm a PhD doing research in Multi-agent robotic system in [CAST](https://cast.ta
 1. Li, Tianqi, and Swaminathan Gopalswamy. "[A Spatial Searching Method for Planning Under Time-Dependent Constraints for Eco-Driving in Signalized Traffic Intersection](https://ieeexplore.ieee.org/document/9362192)." _IEEE Robotics and Automation Letters_ 6.2 (2021): 2525-2532.
 
 2. Li, Tianqi, Lucas W. Krakow, and Swaminathan Gopalswamy. "[Optimizing Consensus-based Multi-target Tracking with Multiagent Rollout Control Policies](https://arxiv.org/abs/2102.02919)." arXiv preprint arXiv:2102.02919 (2021).
+
+# Teaching
+
+- MEEN 364 Dynamic System Feedback: This is an undergraduate core course of control knowledge. I TAed this course in 2019 spring in lab sessions, which contianed knowledge of MatLab/Simulink of linear system in mechanical, electric and hydraulic setups.
+- MEEN MEEN 260 Mechanical Measurements: This is an unergraduate course about data collection from hardwares. I TAed this course in 2019 spring in lab sessions, which contained knowledge of data collection of physical systems by LabView.

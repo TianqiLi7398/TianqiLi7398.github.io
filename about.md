@@ -1,6 +1,5 @@
 ---
 layout: page
-title: Profile
 permalink: /about/
 published: true
 ---

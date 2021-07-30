@@ -5,6 +5,8 @@ permalink: /about/
 published: true
 ---
 
+I'm a PhD doing research in Multi-agent robotic system in [CAST](https://cast.tamu.edu/) lab advised by Dr. [Swaminathan Gopalswamy](https://engineering.tamu.edu/mechanical/profiles/gopalswamy-s.html). My research interest is the coordination of robots in motion planning and sensor fusion.
+
 # Contact 
 
 [xmcx731@tamu.edu](mailto:xmcx731@tamu.edu)

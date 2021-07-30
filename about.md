@@ -38,6 +38,6 @@ I'm a PhD doing research in Multi-agent robotic system in [CAST](https://cast.ta
 
 # Publications
 
-1. Li, Tianqi, and Swaminathan Gopalswamy. "A Spatial Searching Method for Planning Under Time-Dependent Constraints for Eco-Driving in Signalized Traffic Intersection." _IEEE Robotics and Automation Letters_ 6.2 (2021): 2525-2532.
+1. Li, Tianqi, and Swaminathan Gopalswamy. "[A Spatial Searching Method for Planning Under Time-Dependent Constraints for Eco-Driving in Signalized Traffic Intersection](https://ieeexplore.ieee.org/document/9362192)." _IEEE Robotics and Automation Letters_ 6.2 (2021): 2525-2532.
 
-2. Li, Tianqi, Lucas W. Krakow, and Swaminathan Gopalswamy. "Optimizing Consensus-based Multi-target Tracking with Multiagent Rollout Control Policies." arXiv preprint arXiv:2102.02919 (2021).
+2. Li, Tianqi, Lucas W. Krakow, and Swaminathan Gopalswamy. "[Optimizing Consensus-based Multi-target Tracking with Multiagent Rollout Control Policies](https://arxiv.org/abs/2102.02919)." arXiv preprint arXiv:2102.02919 (2021).

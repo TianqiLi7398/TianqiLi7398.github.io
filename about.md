@@ -24,6 +24,16 @@ published: true
 
   2012 - 2016
 
+# Honors
+
+- IEEE CSS Student Travel Support Program, IEEE CSS CCTA 2021
+
+- Graduate Student Research and Presentation Travel Award, Texas A&M University, 2021 spring
+
+- Summer Research Grant, Texas A&M University, 2019 summer
+
+- Emil Buehler Aerodynamic Analog Fellowship, Texas A&M University
+
 # Publications
 
 1. Li, Tianqi, and Swaminathan Gopalswamy. "A Spatial Searching Method for Planning Under Time-Dependent Constraints for Eco-Driving in Signalized Traffic Intersection." _IEEE Robotics and Automation Letters_ 6.2 (2021): 2525-2532.

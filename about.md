@@ -13,7 +13,6 @@ published: true
 
   2018 - now
 
-
 - ### M.S. in Mechanical Engineering, University of Washington
 
   2016 - 2018
@@ -24,6 +23,8 @@ published: true
  
 
 # Honors
+
+- [Byron H. Anderson '54 Fellowship](https://engineering.tamu.edu/news/2014/02/anderson-creates-fellowship-in-mechanical-engineering.html), Texas A\&M University, 2022
 
 - IEEE CSS Student Travel Support Program, IEEE CSS CCTA 2021
 
@@ -37,8 +38,14 @@ published: true
 
 1. Li, Tianqi, and Swaminathan Gopalswamy. "[A Spatial Searching Method for Planning Under Time-Dependent Constraints for Eco-Driving in Signalized Traffic Intersection](https://ieeexplore.ieee.org/document/9362192)." _IEEE Robotics and Automation Letters_ 6.2 (2021): 2525-2532.
 
-2. Li, Tianqi, Lucas W. Krakow, and Swaminathan Gopalswamy. "[Optimizing Consensus-based Multi-target Tracking with Multiagent Rollout Control Policies](https://ieeexplore.ieee.org/abstract/document/9658603)." 2021 IEEE Conference on Control Technology and Applications (CCTA). IEEE, 2021.
+2. Li, Tianqi, Lucas W. Krakow, and Swaminathan Gopalswamy. "[Optimizing Consensus-based Multi-target Tracking with Multiagent Rollout Control Policies](https://ieeexplore.ieee.org/abstract/document/9658603)." 2021 IEEE Conference on Control Technology and Applications (CCTA).
+3. Li, Tianqi, Lucas W. Krakow, and Swaminathan Gopalswamy. "[SMA-NBO: A Sequential Multi-Agent Planning with Nominal Belief-State Optimization in Target Tracking](https://arxiv.org/abs/2203.01507)." 2022 IEEE IROS. 
 
+# Internship
+
+- Meta Research, Machine learning engineering, 2022 May - Aug
+
+  - Group: [Probability](https://research.facebook.com/teams/probability/), Mentor: Dr. [Peter Tang](https://www.linkedin.com/in/pingtakpetertang/), Peers: Dr. [Thomas Dybdahl Ahle](https://thomasahle.com/), Dr. [Ousmane A. Dia](https://www.linkedin.com/in/ousmanedia/)
 
 # Teaching
 

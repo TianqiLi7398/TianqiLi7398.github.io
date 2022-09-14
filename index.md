@@ -5,11 +5,24 @@
 layout: home
 ---
 
-I'm a PhD student doing research in Multi-agent robotic system in [CAST](https://cast.tamu.edu/) lab advised by Dr. [Swaminathan Gopalswamy](https://engineering.tamu.edu/mechanical/profiles/gopalswamy-s.html). 
+I'm a final year PhD candidate doing research in multi-agent robotic system in [CAST](https://cast.tamu.edu/) lab advised by Dr. [Swaminathan Gopalswamy](https://engineering.tamu.edu/mechanical/profiles/gopalswamy-s.html). 
 
 My research interest is about the coordination of robots in motion planning and sensor fusion.
 
+## Status
+
+As I'm wrapping up my thesis and preparing finishing my thesis, I'm on the job market currently. My research & career interest
+includes:
+- Algorithms: Markov Decision Process (MDP), reinforcement learning (RL), game theory, Dynamic Pro-
+gramming (DP)
+- Coordination, target tracking/estimation and sensor fusion in the multi-robot systems
+- Applications in self-driving, networked robot system, active sensing, agricultural robotics
+
+Please contact me via email [tianqili@tamu.edu](tianqili@tamu.edu) or [LinkedIn](https://www.linkedin.com/in/tianqi-li-34a023b7/)!
+
 ## News
+
+- [2022-07] Happy to share that I was honored as the recipent of [Byron H. Anderson ’54 Fellowship](https://engineering.tamu.edu/news/2014/02/anderson-creates-fellowship-in-mechanical-engineering.html) by TAMU!
 
 - [2022-05] Very excited to announce that I passed my preliminary exam, and I'm a PhD candidate! Also I'll be working as an intern in Meta this summer.
 

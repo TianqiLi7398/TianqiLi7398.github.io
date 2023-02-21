@@ -24,7 +24,7 @@ published: true
 
 # Honors
 
-- [Byron H. Anderson '54 Fellowship](https://engineering.tamu.edu/news/2014/02/anderson-creates-fellowship-in-mechanical-engineering.html), Texas A\&M University, 2022
+- [Byron H. Anderson '54 Fellowship](https://engineering.tamu.edu/news/2014/02/anderson-creates-fellowship-in-mechanical-engineering.html), Texas A&M University, 2022
 
 - IEEE CSS Student Travel Support Program, IEEE CSS CCTA 2021
 

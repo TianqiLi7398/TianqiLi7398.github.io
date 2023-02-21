@@ -13,8 +13,7 @@ My research interest is about the coordination of robots in motion planning and 
 
 As I'm wrapping up my thesis and preparing finishing my thesis, I'm on the job market currently. My research & career interest
 includes:
-- Algorithms: Markov Decision Process (MDP), reinforcement learning (RL), game theory, Dynamic Pro-
-gramming (DP)
+- Algorithms: Markov Decision Process (MDP), reinforcement learning (RL), game theory, Dynamic Programming (DP)
 - Coordination, target tracking/estimation and sensor fusion in the multi-robot systems
 - Applications in self-driving, networked robot system, active sensing, agricultural robotics
 

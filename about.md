@@ -54,4 +54,4 @@ published: true
 
 ## Review
 
-I served as reviewer in IEEE RAL and Digital Signal Processing.
+I served as reviewer in IEEE RAL, Frontiers in Robotics and AI and Digital Signal Processing.

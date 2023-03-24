@@ -39,8 +39,7 @@ published: true
 1. Li, Tianqi, and Swaminathan Gopalswamy. "[A Spatial Searching Method for Planning Under Time-Dependent Constraints for Eco-Driving in Signalized Traffic Intersection](https://ieeexplore.ieee.org/document/9362192)." _IEEE Robotics and Automation Letters_ 6.2 (2021): 2525-2532.
 2. Li, Tianqi, Lucas W. Krakow, and Swaminathan Gopalswamy. "[Optimizing Consensus-based Multi-target Tracking with Multiagent Rollout Control Policies](https://ieeexplore.ieee.org/abstract/document/9658603)." IEEE Conference on Control Technology and Applications (CCTA) 2021.
 3. Li, Tianqi, Lucas W. Krakow, and Swaminathan Gopalswamy. "[SMA-NBO: A Sequential Multi-Agent Planning with Nominal Belief-State Optimization in Target Tracking](https://arxiv.org/abs/2203.01507)." IEEE IROS 2022. 
-4. Li, Tianqi, Lucas W. Krakow, and Swaminathan Gopalswamy. "Emergent Cooperative Behavior in Dis-
-tributed Target Tracking with Unknown Occlusions." Submitted to IEEE IROS 2023. 
+4. Li, Tianqi, Lucas W. Krakow, and Swaminathan Gopalswamy. "Emergent Cooperative Behavior in Distributed Target Tracking with Unknown Occlusions." Submitted to IEEE IROS 2023. 
 
 # Internship
 

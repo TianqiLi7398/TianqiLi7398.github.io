@@ -21,6 +21,8 @@ Please contact me via email [tianqili@tamu.edu](tianqili@tamu.edu) or [LinkedIn]
 
 ## News
 
+- [2023-02] We submitted our paper _Emergent Cooperative Behavior in Distributed Target Tracking with Unknown Occlusions_ to IROS 2023, and will host special session _Cooperative Robots_.
+
 - [2022-07] Happy to share that I was honored as the recipent of [Byron H. Anderson ’54 Fellowship](https://engineering.tamu.edu/news/2014/02/anderson-creates-fellowship-in-mechanical-engineering.html) by TAMU!
 
 - [2022-05] Very excited to announce that I passed my preliminary exam, and I'm a PhD candidate! Also I'll be working as an intern in Meta this summer.

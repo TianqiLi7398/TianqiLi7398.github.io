@@ -3,7 +3,7 @@ layout: page
 published: true
 ---
 
-# Contact
+# Email
 [xmcx731@tamu.edu](mailto:xmcx731@tamu.edu) or 
 [tianqili@tamu.edu](mailto:tianqili@tamu.edu)
 

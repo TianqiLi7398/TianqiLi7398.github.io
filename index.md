@@ -5,16 +5,18 @@
 layout: home
 ---
 
-I'm a final year PhD candidate doing research in multi-agent robotic system in [CAST](https://cast.tamu.edu/) lab advised by Dr. [Swaminathan Gopalswamy](https://engineering.tamu.edu/mechanical/profiles/gopalswamy-s.html). 
+I'm a research scientist at Meta since 2024.
 
-My research interest is about the coordination of robots in motion planning and sensor fusion.
+My PhD is about multi-agent robotic system in [CAST](https://cast.tamu.edu/) lab advised by Dr. [Swaminathan Gopalswamy](https://engineering.tamu.edu/mechanical/profiles/gopalswamy-s.html). 
+
+My research interest is about agent interaction, robotic motion planning and sensor fusion.
 
 ## Status
 
-As I'm wrapping up my thesis and preparing finishing my thesis, I'm on the job market currently. My research & career interest
+I'm on the job market currently with research & career interest
 includes:
-- Algorithms: Markov Decision Process (MDP), reinforcement learning (RL), game theory, Dynamic Programming (DP)
-- Coordination, target tracking/estimation and sensor fusion in the multi-robot systems
+- Algorithms: foundational AI models, embodied learning, reinforcement learning (RL), game theory, Dynamic Programming (DP)
+- AI agent design, interaction.
 - Applications in self-driving, networked robot system, active sensing, agricultural robotics
 
 Please contact me via email [tianqili@tamu.edu](tianqili@tamu.edu) or [LinkedIn](https://www.linkedin.com/in/tianqi-li-34a023b7/)!

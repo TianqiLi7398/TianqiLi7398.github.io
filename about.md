@@ -11,7 +11,7 @@ published: true
 
 - ### PhD in Mechanical Engineering, TAMU
 
-  2018 - now
+  2018 - 2024
 
 - ### M.S. in Mechanical Engineering, University of Washington
 
@@ -62,5 +62,5 @@ published: true
 
 I served as reviewer in 
 
-- Journals: IEEE RAL, Frontiers in Robotics and AI, Journal of Robust and Nonlinear Control, Digital Signal Processing.
+- Journals: IEEE RAL, IEEE T-ASE, Frontiers in Robotics and AI, Journal of Robust and Nonlinear Control, Digital Signal Processing.
 - Conference: IRCA

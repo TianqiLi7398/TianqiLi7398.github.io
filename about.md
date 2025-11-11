@@ -4,8 +4,18 @@ published: true
 ---
 
 # Email
-[xmcx731@tamu.edu](mailto:xmcx731@tamu.edu) or 
+Current: [tqli2333@gmail.com](mailto:tqli2333@gmail.com)
+
+Old University email: [xmcx731@tamu.edu](mailto:xmcx731@tamu.edu) or 
 [tianqili@tamu.edu](mailto:tianqili@tamu.edu)
+
+# Career
+
+- Meta, 2023 - 2025
+  - I worked for personalized Instagram Reels recommendation system and ML.
+
+- Latitude AI, 2025 - Present
+  - I am working on state estimation ML projects for L2/L3 AV application.
 
 # Education
 
@@ -62,5 +72,11 @@ published: true
 
 I served as reviewer in 
 
-- Journals: IEEE RAL, IEEE T-ASE, Frontiers in Robotics and AI, Journal of Robust and Nonlinear Control, Digital Signal Processing.
-- Conference: IRCA
+- Journals: 
+  - IEEE RAL
+  - IEEE T-ASE
+  - IEEE Journal of Selected Topics in Signal Processing (JSTSP)
+  - Frontiers in Robotics and AI
+  - Journal of Robust and Nonlinear Control
+  - Digital Signal Processing
+- Conference: ICRA 2021, ICRA 2026

@@ -5,13 +5,14 @@
 layout: home
 ---
 
-I'm a research scientist at Meta since 2024.
+I'm a research scientist at Latitude AI since 2025. Prior to this I worked at Meta.
 
 My PhD is about multi-agent robotic system in [CAST](https://cast.tamu.edu/) lab advised by Dr. [Swaminathan Gopalswamy](https://engineering.tamu.edu/mechanical/profiles/gopalswamy-s.html). 
 
 My research interest is about agent interaction, robotic motion planning and sensor fusion.
+Happy to connect via email [tqli2333@gmail.com](tqli2333@gmail.com) or [LinkedIn](https://www.linkedin.com/in/tianqi-l-34a023b7/).
 
-## Status
+<!-- ## Status
 
 I'm on the job market currently with research & career interest
 includes:
@@ -19,7 +20,7 @@ includes:
 - AI agent design, interaction.
 - Applications in self-driving, networked robot system, active sensing, agricultural robotics
 
-Please contact me via email [tianqili@tamu.edu](tianqili@tamu.edu) or [LinkedIn](https://www.linkedin.com/in/tianqi-li-34a023b7/)!
+Please contact me via email [tianqili@tamu.edu](tianqili@tamu.edu) or [LinkedIn](https://www.linkedin.com/in/tianqi-li-34a023b7/)! -->
 
 ## News
 

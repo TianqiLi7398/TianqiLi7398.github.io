@@ -72,7 +72,8 @@ Old University email: [xmcx731@tamu.edu](mailto:xmcx731@tamu.edu) or
 
 I served as reviewer in 
 
-- Journals: 
+- Journals:
+  - IJRR
   - IEEE RAL
   - IEEE T-ASE
   - IEEE Journal of Selected Topics in Signal Processing (JSTSP)

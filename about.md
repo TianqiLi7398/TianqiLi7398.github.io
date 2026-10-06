@@ -80,4 +80,4 @@ I served as reviewer in
   - Frontiers in Robotics and AI
   - Journal of Robust and Nonlinear Control
   - Digital Signal Processing
-- Conference: ICRA 2021, ICRA 2026, ICRA 2027
+- Conference: ICRA (2021, 2026, 2027), IROS 2026
